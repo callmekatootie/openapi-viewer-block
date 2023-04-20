@@ -1,6 +1,7 @@
 # GitHub Blocks Template
 
 Use this repository as a starter template for building your own Blocks.
+
 ## Quickstart
 
 > 🛑 Currently, you must be flagged into the [GitHub Blocks Technical Preview](https://blocks.githubnext.com) in order to develop blocks. There is no "offline" development mode at this time.
@@ -37,6 +38,7 @@ Visit [githubnext/blocks](https://blocks.githubnext.com/githubnext/blocks) for a
 You should also join us in our discord! There's a [#blocks channel](https://discord.com/channels/735557230698692749/1039950186136469535) where you can connect with us and other folks who are building Blocks:
 
 > 👋 https://discord.gg/githubnext
+
 ## License
 
 MIT
