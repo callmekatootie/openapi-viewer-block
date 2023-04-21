@@ -2480,24 +2480,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"custom-block-template@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "custom-block-template@workspace:."
-  dependencies:
-    "@githubnext/blocks": ^2.3.5
-    "@primer/react": ^35.25.0
-    "@types/swagger-ui-react": ^4.18.0
-    core-js: ^3.30.1
-    mobx: ^6.9.0
-    prettier: ^2.8.7
-    react: ^18.1.0
-    react-dom: ^18.1.0
-    redoc: ^2.0.0
-    styled-components: ^5.3.9
-    swagger-ui-react: ^4.18.2
-  languageName: unknown
-  linkType: soft
-
 "debug@npm:2.6.9":
   version: 2.6.9
   resolution: "debug@npm:2.6.9"
@@ -4657,6 +4639,24 @@ __metadata:
   checksum: 65712bfb455345ffb1db603ce7964db56b5eca0aa11267d424ab7515750a502341ed0d22baa7bafd96edd4e6037bcc0da82eebcd6b5ce7afa3605a8bffadeff9
   languageName: node
   linkType: hard
+
+"openapi-viewer-block@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "openapi-viewer-block@workspace:."
+  dependencies:
+    "@githubnext/blocks": ^2.3.5
+    "@primer/react": ^35.25.0
+    "@types/swagger-ui-react": ^4.18.0
+    core-js: ^3.30.1
+    mobx: ^6.9.0
+    prettier: ^2.8.7
+    react: ^18.1.0
+    react-dom: ^18.1.0
+    redoc: ^2.0.0
+    styled-components: ^5.3.9
+    swagger-ui-react: ^4.18.2
+  languageName: unknown
+  linkType: soft
 
 "os-tmpdir@npm:~1.0.2":
   version: 1.0.2
